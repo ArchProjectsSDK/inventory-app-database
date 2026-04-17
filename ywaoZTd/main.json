@@ -1,1 +1,1 @@
-{"sale":[],"shop":"ywaoZTd","name":"mwshop","inventory":[{"date":"17.04.2026 21:07","qty":"2","name":"Tecno Power","purchase":"45000","barcode":"0701879105708111216","sales":"55000"}],"status":"working"}
+{"sale":[{"check":"167424","code":"0701879105708111216","name":"Tecno Power","price":"55000","qty":"1","sum":"55000","date":"17.04.2026","time":"21:39:25"}],"shop":"ywaoZTd","name":"mwshop","inventory":[{"barcode":"0701879105708111216","name":"Tecno Power","sales":"55000","purchase":"45000","qty":"1","date":"17.04.2026 21:07"}],"status":"working"}
