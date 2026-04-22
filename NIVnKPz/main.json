@@ -1,1 +1,1 @@
-{"sale":[],"shop":"NIVnKPz","name":"Do\u0027kon","inventory":[{"date":"22.04.2026 18:28","qty":"3","name":"Ditrim","purchase":"50000","barcode":"4620767190170","sales":"55000"}],"status":"working"}
+{"sale":[{"check":"792820","code":"4620767190170","name":"Ditrim","price":"55000","qty":"3","sum":"165000","date":"22.04.2026","time":"18:29:50"}],"shop":"NIVnKPz","name":"Do'kon","inventory":[],"status":"working"}
